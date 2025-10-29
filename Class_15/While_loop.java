@@ -63,7 +63,7 @@ Hey there! 3
 Hey there! 4
 
 */
-   // output for nested loop
+   // output for nested while loop
     /*
 Hey there! 1
 Hello
