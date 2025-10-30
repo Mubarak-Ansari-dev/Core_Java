@@ -1,0 +1,66 @@
+
+🚀 Starting Object-Oriented Programming (OOP) concepts!
+
+`````````````````````````````````````````````````````````````````````````````
+
+
+📘 Object-Oriented Programming (OOP) – Overview
+🚀 What is OOP?
+
+ • Object-Oriented Programming (OOP) is a programming style that organizes code into objects — small, reusable units that represent real-world things or ideas.
+ • Each object has:
+    • Data (variables) → known as attributes or fields
+    • Behaviors (methods) → known as functions inside the class
+
+Think of it like a blueprint:
+    • A Class is a blueprint, and an Object is a real thing built from that blueprint.
+
+
+  ````````````````````````````````````````````````````````````
+
+  🧠 Why use OOP?
+
+OOP makes code:
+
+   ✅ Easier to understand
+   ♻️ Reusable
+   🔒 Secure
+   🧩 Organized and maintainable
+
+ • Instead of writing all code in one place, we group related data and actions together inside classes.  
+
+ ```````````````````````````````````````````````````````````````````````````````````````````````
+
+ 🧩 4 Pillars of OOP:
+
+1️⃣ Encapsulation
+
+  → Binding data and methods that work on that data within one unit (class).
+
+   • Keeps data safe from direct access.
+   • Achieved using private variables and public getters/setters.
+💬 Example: private int age; and public void setAge(int a) {...}
+
+2️⃣ Inheritance
+
+ → One class (child) can use properties and methods of another class (parent).
+
+  • Promotes code reusability.
+💬 Example: class Car extends Vehicle
+
+3️⃣ Polymorphism
+
+ → One name, many forms.
+
+ • Same method behaves differently based on the object.
+
+💬 Example:
+   • print() can print text or numbers differently.
+   • Achieved through method overloading & method overriding.
+
+4️⃣ Abstraction
+
+ → Hiding complex details and showing only essential information.
+
+ • Focus on what it does, not how it does it.
+💬 Example: When you call drive(), you don’t need to know how the engine works inside.
