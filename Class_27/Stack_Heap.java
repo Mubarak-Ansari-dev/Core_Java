@@ -46,7 +46,7 @@ class Calculator {
     }
 }
 
-public class NeedOfArray {
+public class Stack_Heap {
     public static void main (String[] args)
     {
         int data = 10; //local variable created in stack frame of main method
