@@ -57,7 +57,7 @@
     -- Immutable strings, on the other hand, cannot be changed after they have been created. 
 
     String is immutable 
-    StringBuffer and StringBuilder are mutable in nature */
+    StringBuffer and StringBuilder are mutable in nature `*/
 
     //package Class_36;
 
