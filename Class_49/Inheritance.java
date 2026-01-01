@@ -28,6 +28,17 @@ A subclass does not inherit the private members of its parent class. *
 
 //package Class_49;
 
+class Calc{
+
+    public int add(int n1, int n2){
+        return n1 + n2;
+    }
+
+    public int sub(int n  1, int n2){
+        return n1 - n2;
+    }
+}
+
 public class Inheritance {
     public static void main(String args[]){
         System.out.println("Inheritance in Java");
