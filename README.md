@@ -86,3 +86,42 @@ My goal is to build strong Java fundamentals for **DSA + Backend (Spring Boot)**
 
 ## 📂 Repository Structure
 
+
+
+```
+
+Each folder contains:
+- Example code from the video  
+- Extra practice code  
+- Comments for revision  
+
+---
+
+## 🎯 My Goal With This Course
+
+✔ Strengthen Java basics  
+✔ Prepare for **DSA in Java**  
+✔ Prepare for **Backend Development (Spring Boot)**  
+✔ Become job-ready ASAP  
+
+---
+
+## 📝 Progress Tracker
+
+| Topic | Status |
+|-------|--------|
+| Basics | ✅ |
+| OOP | ⏳ |
+| Collections | ⏳ |
+| Multithreading | ⏳ |
+| File Handling | ⏳ |
+| Full Playlist | 🔄 In Progress |
+
+---
+
+## ⭐ Acknowledgement
+
+Special thanks to **Navin Reddy Sir (Telusko)** for the clear and powerful Java tutorials.
+
+---
+
