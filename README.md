@@ -86,6 +86,7 @@ My goal is to build strong Java fundamentals for **DSA + Backend (Spring Boot)**
 
 ## 📂 Repository Structure
 
+```
 CORE_JAVA/
 ├── Class_01/
 ├── Class_02/
@@ -206,7 +207,7 @@ CORE_JAVA/
 ├── Class_112/
 └── README.md
 
-
+```
 
 
 ---
