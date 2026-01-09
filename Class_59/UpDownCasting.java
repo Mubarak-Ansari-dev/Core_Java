@@ -48,9 +48,35 @@ So, there are two types of typecasting possible for an object, i.e., Parent to C
 
 //package Class_59;
 
+
+/* 
 public class UpDownCasting {
     public static void main(String args[]){
-        System.out.println("Upcasting and Downcasting Example");
+        double d = 3.5;
+        int i = (int) d; // explicit typecasting
+        System.out.println("Value of i is: " + i); // o/p: 3
     }
     
+}
+*/
+class A{
+    public void show1(){
+        System.out.println("in show A");
+    }
+}
+//inheritance - child class
+class B extends A{
+    public void show2(){
+        System.out.println("in show B");
+    }
+
+}
+public class UpDownCasting {
+     public static void main(String args[]){
+        A obj = new B(); // upcasting
+        obj.show1();
+
+        B obj1 = (B) obj; // downcasting
+        obj1.show2();
+     }
 }
