@@ -59,8 +59,18 @@ interface A{
 
 //package Class_73;
 
+@FunctionalInterface
+ interface A{
+    void show();
+ }
+
 public class FuncInterface {
     public static void main(String args[]){
-        System.out.println("Functional Interface in Java"); 
+        A obj = new A(){
+            public void show(){
+                System.out.println("Hello");
+            }
+        };
+        obj.show();
     }
 }
