@@ -93,10 +93,24 @@ Increases program speed and quality
  */
 
 //package Class_92;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
 
-public class ArrayList {
+
+public class ArrayListDemo {
     public static void main(String args[]){
-        System.out.println("ArrayList in Java");
+        
+        List<Integer> nums = new ArrayList<Integer>();
+        nums.add(2);
+        nums.add(4);
+        nums.add(6);
+        nums.add(8);
+
+        System.out.println(nums.indexOf(4));
+
+        System.out.println(nums.get(2));
+
     }
     
 }
