@@ -233,11 +233,11 @@ Each folder contains:
 | Topic | Status |
 |-------|--------|
 | Basics | ✅ |
-| OOP | ⏳ |
-| Collections | ⏳ |
-| Multithreading | ⏳ |
-| File Handling | ⏳ |
-| Full Playlist | 🔄 In Progress |
+| OOP | ✅ |
+| Collections | ✅ |
+| Multithreading | ✅ |
+| File Handling | ✅ |
+| Full Playlist | 🧑🏻‍💻✅ | Done
 
 ---
 
