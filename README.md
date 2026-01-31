@@ -246,4 +246,5 @@ Each folder contains:
 Special thanks to **Navin Reddy Sir (Telusko)** for the clear and powerful Java tutorials.
 
 ---
+Completed Core Java on 31 January 2026, 21:30 Sat😎🌱🩷
 
