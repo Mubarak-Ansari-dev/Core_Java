@@ -200,11 +200,6 @@ CORE_JAVA/
 ├── Class_105/
 ├── Class_106/
 ├── Class_107/
-├── Class_108/
-├── Class_109/
-├── Class_110/
-├── Class_111/
-├── Class_112/
 └── README.md
 
 ```
@@ -247,4 +242,6 @@ Special thanks to **Navin Reddy Sir (Telusko)** for the clear and powerful Java 
 
 ---
 Completed Core Java on 31 January 2026, 21:30 Sat😎🌱🩷
+
+🩷🧑🏻‍💻NEXT GONNA START LEARNING SPRING & SPRINGBOOT -> FEB 2nd 2026
 
